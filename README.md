@@ -60,6 +60,7 @@
         </section>
 
 
+
     <footer>
         <p>&copy; Profile by Isabella Palacio, a student at the University of Miami. She is a big Justin Bieber fan.</p>
        
